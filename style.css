@@ -56,3 +56,19 @@ section p {
     font-size: 1.5rem;
     color: #fff;
 }
+
+section#home {
+    background: url("https://images.pexels.com/photos/7358/startup-photos.jpg?cs=srgb&dl=iphone-web-7358.jpg&fm=jpg") no-repeat center center/cover;
+}
+
+section#about {
+    background: url("https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?cs=srgb&dl=pexels-1089438.jpg&fm=jpg") no-repeat center center/cover;
+}
+
+section#contant {
+    background: url("https://images.pexels.com/photos/114907/pexels-photo-114907.jpeg?cs=srgb&dl=web-114907.jpg&fm=jpg") no-repeat center center/cover;
+}
+
+section#content {
+    background: url("https://images.pexels.com/photos/177598/pexels-photo-177598.jpeg?cs=srgb&dl=pexels-177598.jpg&fm=jpg") no-repeat center center/cover;
+}
